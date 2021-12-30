@@ -1,6 +1,6 @@
 # Customer Segmentation
-### Notebook : ()
-### Colab : ()
+### Notebook : [Customer Segmentation](https://github.com/panita10/BADS7105-CRM-Analytics/blob/main/Assignment02%20-%20Customer%20Segmentation/Customer_Segmentation.ipynb)
+### Colab : [Customer Segmentation](https://colab.research.google.com/drive/17CNEbF4wfwOvCbAFujzRTbfh-ytAOg2f#scrollTo=hKbiMRhGmKz2)
 
 ## 1.) Import Dataset
 The given Supermarket dataset contains 956K rows of sales transactions at sales-item level. Imported the file into Google BigQuery.
