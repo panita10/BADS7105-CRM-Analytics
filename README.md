@@ -6,3 +6,4 @@
 * [Assignment05 - AB Testing](https://github.com/panita10/BADS7105-CRM-Analytics/tree/main/Assignment05%20-%20AB%20Testing)
 * [Assignment06 - Customer Movement Analysis](https://github.com/panita10/BADS7105-CRM-Analytics/tree/main/Assignment06%20-%20Customer%20Movement%20Analysis)
 * [Assignment07 - Voice of Customer](https://github.com/panita10/BADS7105-CRM-Analytics/tree/main/Assignment07%20-%20Voice%20of%20Customer)
+* [Assignment08 - Voice of Design Thinking](https://github.com/panita10/BADS7105-CRM-Analytics/tree/main/Assignment08%20-%20Design%20Thinking)
