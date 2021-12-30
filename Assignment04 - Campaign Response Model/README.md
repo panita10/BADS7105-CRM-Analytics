@@ -2,14 +2,19 @@
 ## Data Preparation
 #### Notebook : [Campaign Response Model](https://github.com/panita10/BADS7105-CRM-Analytics/blob/main/Assignment04%20-%20Campaign%20Response%20Model/Campaign_Response_Model.ipynb)
 #### Colab : [Campaign Response Model](https://colab.research.google.com/drive/1VsDmfjsrEubPwtoJm8rsUjXobCqOEiI4#scrollTo=iHPPPTslIDSt)
-### create data set with RFM variables'
+
+### create data set with RFM variables
+
 ![image](https://user-images.githubusercontent.com/92771399/147743631-56f7d138-b711-4ad7-8e08-9eba30783424.png)
 
 ### create data set with CLV variables
+
 ![image](https://user-images.githubusercontent.com/92771399/147743666-ddb7334b-cf95-4a6b-bd55-a155eeba12d2.png)
 
 ### Corelation heatmap
+
 show Correlation between features
+
 ![image](https://user-images.githubusercontent.com/92771399/147744543-d685f9e4-010a-4c3c-be46-6bdbf154fef2.png)
 
 
@@ -17,10 +22,13 @@ show Correlation between features
 ![image](https://user-images.githubusercontent.com/92771399/147743749-46ef8f81-c9f0-497e-ace0-84fc17157a79.png)
 
 ## Train and Test Dataset
+
 RFM
+
 ![image](https://user-images.githubusercontent.com/92771399/147743816-30142175-1667-4ccf-ad40-61f5b3c7e9ea.png)
 
 CLV
+
 ![image](https://user-images.githubusercontent.com/92771399/147743861-65cf19b3-075f-41b6-8c18-7d54e180a613.png)
 
 ## Data Re-sampling
