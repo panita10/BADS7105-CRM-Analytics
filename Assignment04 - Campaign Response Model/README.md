@@ -1,7 +1,7 @@
 # Campaign Response
 ## Data Preparation
-#### Notebook : (https://github.com/panita10/BADS7105-CRM-Analytics/blob/main/Assignment04%20-%20Campaign%20Response%20Model/Campaign_Response_Model.ipynb)
-#### Colab : (https://colab.research.google.com/drive/1VsDmfjsrEubPwtoJm8rsUjXobCqOEiI4#scrollTo=iHPPPTslIDSt)
+#### Notebook : [Campaign Response Model](https://github.com/panita10/BADS7105-CRM-Analytics/blob/main/Assignment04%20-%20Campaign%20Response%20Model/Campaign_Response_Model.ipynb)
+#### Colab : [Campaign Response Model](https://colab.research.google.com/drive/1VsDmfjsrEubPwtoJm8rsUjXobCqOEiI4#scrollTo=iHPPPTslIDSt)
 ### create data set with RFM variables'
 ![image](https://user-images.githubusercontent.com/92771399/147743631-56f7d138-b711-4ad7-8e08-9eba30783424.png)
 
