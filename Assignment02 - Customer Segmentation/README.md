@@ -1,4 +1,7 @@
 # Customer Segmentation
+### Notebook : ()
+### Colab : ()
+
 ## 1.) Import Dataset
 The given Supermarket dataset contains 956K rows of sales transactions at sales-item level. Imported the file into Google BigQuery.
 
